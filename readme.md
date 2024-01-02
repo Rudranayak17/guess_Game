@@ -6,12 +6,12 @@ Welcome to the Go Guessing Game! This is a simple console-based game where the p
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/go-guessing-game.git
+   git clone https://github.com/Rudranayak17/guess_Game
    ```
  2. navigate to :
 
 ```bash
-   cd guessGame 
+   cd guess_Game
 ```
 3. Run the game:
 ```bash
